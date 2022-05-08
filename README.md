@@ -7,3 +7,4 @@
 * Implementation of Queue
 * Implementation of Circular Queue
 * Implementation of Dequeue
+* Binary Search
