@@ -5,3 +5,4 @@
 * Addition of Polynomials
 * Transpose and Addition of Sparse Matrices
 * Implementation of Queue
+* Implementation of Circular Queue
