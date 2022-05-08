@@ -9,3 +9,4 @@
 * Implementation of Dequeue
 * Binary Search
 * Implementation of Linked List
+* Polynomial Addition and Multiplication using Linked List
