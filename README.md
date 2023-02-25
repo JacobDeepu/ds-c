@@ -10,3 +10,4 @@
 * Binary Search
 * Implementation of Linked List
 * Polynomial Addition and Multiplication using Linked List
+* Implementation of Stack using Linked List
